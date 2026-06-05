@@ -1,0 +1,12 @@
+{
+  "name": "Efektiva",
+  "description": "Consulta tus análisis de riesgo de Efektiva directamente desde Claude. Lista empresas, obtén reportes y analiza información financiera.",
+  "version": "1.0.0",
+  "author": "Efektiva",
+  "mcpServers": {
+    "efektiva": {
+      "type": "http",
+      "url": "https://efektiva-mcp.vercel.app/api/mcp"
+    }
+  }
+}
